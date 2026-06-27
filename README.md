@@ -309,7 +309,7 @@ Focuses on validating individual components in isolation.
 ```text
 {
   "ip": "",
-  "event": "login_failed"
+  "event": "login_failed" 
 }
 
 ```

@@ -6,7 +6,7 @@
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Search](https://img.shields.io/badge/Search-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-SIEM-red)
-![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)
+![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen) 
 
 ---
 

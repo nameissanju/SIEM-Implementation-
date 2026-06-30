@@ -263,7 +263,7 @@ Data → Preprocessing → Feature Engineering → Model Training → Prediction
 
  ## ✅ Unit Testing
 
-Focuses on validating individual components in isolation.
+Focuses on validating individual components in isolation..
 
 #### Scope:
 

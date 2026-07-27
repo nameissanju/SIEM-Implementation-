@@ -174,7 +174,7 @@ siem/
 ## 2️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/siem-project.git
+git clone https://github.com/your-username/siem-project.git 
 cd siem
 ```
 

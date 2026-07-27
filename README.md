@@ -38,7 +38,7 @@ The **SIEM (Security Information and Event Management) System** is designed to *
 This project simulates a **real-world enterprise-grade SIEM system**, integrating:
 
 * Log aggregation
-* Event correlation
+* Event correlation 
 * Threat detection (rule-based + ML)
 * Alerting system
 * Scalable architecture
